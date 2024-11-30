@@ -1,12 +1,12 @@
-# todometer
+# todolist2024
 
 A simple, meter-based to-do list built with Electron and React.
 
-![todometer](assets/screenshot.png)
+![todolist2024](assets/screenshot.png)
 
 ## Download
 
-Nab the latest version from the [Releases](https://github.com/cassidoo/todometer/releases) page!
+Nab the latest version from the [Releases](https://github.com/cassidoo/todolist2024/releases) page!
 
 ## Development
 
